@@ -1,0 +1,7 @@
+这个项目里面的代码是慕课网 Java入门一，二，三季课程的一些代码
+
+com.imooc.www包下的每个.java文件都是一个单独的实例，在相应的文件中说明了其作用
+com.imooc.exception包下是关于异常的一些代码
+com.imooc.string包下关于String的一些知识
+com.imooc.object包下关于Java中的一些常用类
+com.imooc.collection包下是collection  map的操作（增删改查）
