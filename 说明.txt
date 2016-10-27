@@ -1,3 +1,7 @@
 base_demo  是java入门的一二三季的代码集合
 
 FileDemo整个项目是关于Java IO的全部代码，由于本章涉及到关于文件的操作，所以代码重新执行需要修改一下相应的文件的文章
+
+DOMTest ， DOM4J，SAXTest ， JDOMTest是关于解析和生成XML的四种方式
+
+CreateXMLTest和ParserXMLTest是关于4中方式生成XML和解析XML的比较
