@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<WLLINKED>
+		<HEAD>
+        	<TYPE>SHIPMENT_ORDER</TYPE>
+	        <CODE>ILC</CODE>
+	        <SENDER></SENDER>
+	        <DATE>2016-11-02 09:00:34</DATE>
+	        <BUSICODE>20161102090034131524</BUSICODE>
+	    </HEAD>
+	    <XML_DATA>
+	        <ECNO>C161101-000055</ECNO>	//配载号
+	        <VEHICLENO></VEHICLENO>		//司机手机号码
+	 		<LEGS>
+	            <LEG>
+	                <LEG_NO>161101000157</LEG_NO>		//运单编号	
+ 					<OWNER_COMPANY_CODE>ILC</OWNER_COMPANY_CODE>
+	                <STATUS>OPEN</STATUS>
+	                <BUSI_GROUP>默认</BUSI_GROUP>
+	                <ORDER_TYPE>默认</ORDER_TYPE>
+	                <PRIORITY>普通</PRIORITY>
+	                <ORDER_DATE>2016-11-02 09:00:34</ORDER_DATE>		//系统推送时间
+	                <LOADING_METHOD>零担</LOADING_METHOD>		//配载方式
+	                <SHIPMENT_METHOD>汽运</SHIPMENT_METHOD>		//运输方式
+	                <SHIPMENT_TIME></SHIPMENT_TIME>
+	                <PLAN_LEAVE_TIME>20161101000000</PLAN_LEAVE_TIME>		//计划发运时间 承运日期
+	                <LEAVE_TIME></LEAVE_TIME>
+	                <PLAN_ARRIVE_TIME>20161102000000</PLAN_ARRIVE_TIME>    //预计到达时间
+	                <FROM_LOCATION_NAME>UQ项目组</FROM_LOCATION_NAME>		//发货人   
+	                <TO_LOCATION_NAME>上海松江新理想广场店</TO_LOCATION_NAME>		//收货人
+	                <OWNER_NAME></OWNER_NAME>
+	                <ARRIVE_TIME></ARRIVE_TIME>
+	                <FEE>0.0</FEE>
+	                <QUANTITY>10</QUANTITY>		//件数
+	                <WEIGHT></WEIGHT>		//重量
+	                <VOLUME>1.5745</VOLUME>		//体积
+	                <DESCRIPTION>2016-11-02 08:30:00</DESCRIPTION>		//备注
+	                <EXTCOL1>上海松江新理想广场店</EXTCOL1>		//店铺名称
+	                <EXTCOL2></EXTCOL2>
+	                <EXTCOL3></EXTCOL3>
+	                <EXTCOL4>外请7</EXTCOL4>		//车牌号
+	                <EXTCOL5>马如国外请7</EXTCOL5>		//司机姓名
+	                <FROMNAME></FROMNAME>
+	                <FROMMOBILE></FROMMOBILE>
+	                <FROMTELEPHONE>021-69015529/27</FROMTELEPHONE>		//发货联系电话
+	                <FROMEMAIL></FROMEMAIL>
+					<FROMPOSTCODE></FROMPOSTCODE>
+	                <FROMPROVINCE>上海市</FROMPROVINCE>
+	                <FROMCITY>上海市</FROMCITY>
+	                <FROMFAX></FROMFAX>
+	                <FROMADDRESS>上海市嘉定区翔方公路2255号</FROMADDRESS>		//发货地址
+	                <TONAME>周磊</TONAME>		//收货联系人
+	                <TOMOBILE></TOMOBILE>
+	                <TOTELEPHONE>021-37629586</TOTELEPHONE>		//收货联系人座机
+	                <TOEMAIL></TOEMAIL>
+	                <TOPOSTCODE></TOPOSTCODE>
+	                <TOPROVINCE>上海市</TOPROVINCE>		//目的区域   {? 22}
+	                <TOCITY>上海市</TOCITY>           //{? 23}
+	                <TOFAX></TOFAX>
+	                <TOADDRESS>上海市松江区荣乐西路830-858（双号）1层F1-03?07商铺</TOADDRESS>		//收货地址
+	                <DETAILS>
+	                    <DETAIL>
+	                        <LEG_NO>161101000157</LEG_NO>		//运单编号
+	                        <PRODUCT_NAME>迅销DC</PRODUCT_NAME>		//货品名称
+	                        <PRODUCT_TYPE></PRODUCT_TYPE>
+	                        <PRODUCT_CODE></PRODUCT_CODE>
+	                        <QUANTITY>10</QUANTITY>		//数量
+	                        <WEIGHT></WEIGHT>		//重量
+	                        <VOLUME>1.5745</VOLUME>		//体积
+	                        <BOXNO></BOXNO>
+	                        <DESCRIPTION>2016-11-02 08:30:00</DESCRIPTION>		//备注
+	                        <EXTEND_FIELD_1>UQDC1611010201</EXTEND_FIELD_1>		//订单编号
+	                        <EXTEND_FIELD_2></EXTEND_FIELD_2>
+	                    </DETAIL>
+	                </DETAILS>
+	            </LEG>
+	        </LEGS>
+        </XML_DATA>
+	</WLLINKED>
